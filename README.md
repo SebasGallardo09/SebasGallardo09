@@ -1,8 +1,12 @@
 ### Desarrollador backend 👋
 <a href="https://app.daily.dev/erickgallardo"><img src="https://api.daily.dev/devcards/324718a3b0d24bcdb506f2604526f01a.png?r=fcp" width="400" alt="Erick Gallardo Dev Card"/></a>
 
+### :blue_book: Conocimientos:
+- Python
+- JavaScript
+- JAVA
 
-Actividades
+### :exclamation: Aprendizaje
 
 - Codewar <a href="https://www.codewars.com/users/SebasGallardo09"><img src="https://www.codewars.com/users/SebasGallardo09/badges/micro" width="100" alt="codewar"/></a>
 
